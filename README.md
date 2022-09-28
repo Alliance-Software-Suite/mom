@@ -1,2 +1,3 @@
-# mom
-Monetary Operation Manager
+# MOM *(Monetary Operation Manager)*
+
+A tool for managing transactions.
